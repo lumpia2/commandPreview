@@ -1,0 +1,15 @@
+C:\Pitt\Fourth Year\Second Semester\1896 Senior Design\LaterVS\commandPreview\bin\Debug\net6.0\commandPreview.exe
+C:\Pitt\Fourth Year\Second Semester\1896 Senior Design\LaterVS\commandPreview\bin\Debug\net6.0\commandPreview.deps.json
+C:\Pitt\Fourth Year\Second Semester\1896 Senior Design\LaterVS\commandPreview\bin\Debug\net6.0\commandPreview.runtimeconfig.json
+C:\Pitt\Fourth Year\Second Semester\1896 Senior Design\LaterVS\commandPreview\bin\Debug\net6.0\commandPreview.dll
+C:\Pitt\Fourth Year\Second Semester\1896 Senior Design\LaterVS\commandPreview\bin\Debug\net6.0\commandPreview.pdb
+C:\Pitt\Fourth Year\Second Semester\1896 Senior Design\LaterVS\commandPreview\obj\Debug\net6.0\commandPreview.csproj.AssemblyReference.cache
+C:\Pitt\Fourth Year\Second Semester\1896 Senior Design\LaterVS\commandPreview\obj\Debug\net6.0\commandPreview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pitt\Fourth Year\Second Semester\1896 Senior Design\LaterVS\commandPreview\obj\Debug\net6.0\commandPreview.AssemblyInfoInputs.cache
+C:\Pitt\Fourth Year\Second Semester\1896 Senior Design\LaterVS\commandPreview\obj\Debug\net6.0\commandPreview.AssemblyInfo.cs
+C:\Pitt\Fourth Year\Second Semester\1896 Senior Design\LaterVS\commandPreview\obj\Debug\net6.0\commandPreview.csproj.CoreCompileInputs.cache
+C:\Pitt\Fourth Year\Second Semester\1896 Senior Design\LaterVS\commandPreview\obj\Debug\net6.0\commandPreview.dll
+C:\Pitt\Fourth Year\Second Semester\1896 Senior Design\LaterVS\commandPreview\obj\Debug\net6.0\refint\commandPreview.dll
+C:\Pitt\Fourth Year\Second Semester\1896 Senior Design\LaterVS\commandPreview\obj\Debug\net6.0\commandPreview.pdb
+C:\Pitt\Fourth Year\Second Semester\1896 Senior Design\LaterVS\commandPreview\obj\Debug\net6.0\commandPreview.genruntimeconfig.cache
+C:\Pitt\Fourth Year\Second Semester\1896 Senior Design\LaterVS\commandPreview\obj\Debug\net6.0\ref\commandPreview.dll
